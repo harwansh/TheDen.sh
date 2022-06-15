@@ -1,0 +1,1 @@
+cheet("r e t r o",function(){function t(){document.querySelector("html").setAttribute("style","-webkit-filter: blur(1px)  saturate(10)")}function n(){setTimeout(document.querySelector("html").setAttribute("style","-webkit-filter: none"),114200)}var s=5e3,e=40;setTimeout(t,0),setTimeout(n,e),setTimeout(t,e*2),setTimeout(n,s),setTimeout(t,s+e),setTimeout(n,s+e*2)})
